@@ -25,12 +25,12 @@ This is a simple TODO list management app built with React and TypeScript. It al
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/David-Sasaki/todo-list.git
    ```
 2. Navigate to the project directory:
 
    ```bash
-   cd todo-app
+   cd todo-list
    ```
 3. Install dependencies:
 
